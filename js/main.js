@@ -64,7 +64,7 @@ var main = (function () {
             }
         };
         Singleton.defaultOptions = {
-            	"academic.txt": "\n2016-2019, ",
+            	"academic.txt": "\n2016 - 2019, "LQ,
 		"contact.txt": "bhoang.luu[at]gmail[dot]com",
         };
         return {
