@@ -27,7 +27,7 @@ var main = (function () {
             rmdir_help: "Remove directory, this command will only work if the folders are empty.",
             touch_help: "Change file timestamps. If the file doesn't exist, it's created an empty one.",
             sudo_help: "Execute a command as the superuser.",
-		welcome: "Welcome to my personal website :) \n My name is Ba Hoang Luu, a high school senior in California.\nPlease enter 'help' to see what command you are able to use in this website.",
+		welcome: "Welcome to my personal website :) \n My name is Ba Hoang Luu, a high school senior in California.\nPlease enter 'help' to see what command you are able to use in this website.\nYou can also double-click on the text to skip the text rolling.",
             internet_explorer_warning: "NOTE: I see you're using internet explorer, this website won't work properly.",
             welcome_file_name: "welcome_message.txt",
             invalid_command_message: "<value>: command not found.",
@@ -64,8 +64,6 @@ var main = (function () {
             }
         };
         Singleton.defaultOptions = {
-            "about.txt": "This website was made using only pure JavaScript with no extra libraries.\nI made it dynamic so anyone can use it, just download it from GitHub and change the config text according to your needs.\nIf you manage to find any bugs or security issues feel free to email me: luisbraganca@protonmail.com",
-            "getting_started.txt": "First, go to js/main.js and replace all the text on both singleton vars.\n- configs: All the text used on the website.\n- files: All the fake files used on the website. These files are also used to be listed on the sidenav.\nAlso please notice if a file content is a raw URL, when clicked/concatenated it will be opened on a new tab.\nDon't forget also to:\n- Change the page title on the index.html file\n- Change the website color on the css/main.css\n- Change the images located at the img folder. The suggested sizes are 150x150 for the avatar and 32x32/16x16 for the favicon.",
             "contact.txt": "bhoang.luu[at]gmail[dot]com",
         };
         return {
