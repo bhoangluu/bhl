@@ -64,7 +64,7 @@ var main = (function () {
             }
         };
         Singleton.defaultOptions = {
-            	"academic.txt": "\n2016 - 2019, "LQ,
+            	"academic.txt": "\n2016 - 2019, La Quinta High School [Westminster, California]\n- GPA: #.##\n- Math Club Co-founder & President\n- Vietnamese Student Association\n- CyberPatriot X Participant\n \n2012 - 2016, Tran Dai Nghia High School for the Gifted [Saigon, Vietnam], Junior High Graduate\n- Programming Olympiad Team\n- Robotics Team\n- Informatics Club",
 		"contact.txt": "bhoang.luu[at]gmail[dot]com",
         };
         return {
