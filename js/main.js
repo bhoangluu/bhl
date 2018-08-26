@@ -64,7 +64,7 @@ var main = (function () {
             }
         };
         Singleton.defaultOptions = {
-            	"academic.txt": "\n2016-2019, "La Quinta High School
+            	"academic.txt": "\n2016-2019, ",
 		"contact.txt": "bhoang.luu[at]gmail[dot]com",
         };
         return {
