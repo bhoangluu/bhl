@@ -64,7 +64,7 @@ var main = (function () {
             }
         };
         Singleton.defaultOptions = {
-            	"academic.txt": "\n2016 - 2019, La Quinta High School [Westminster, California]\n- GPA: #.##\n- Math Club Co-founder & President\n- Vietnamese Student Association\n- CyberPatriot X Participant\n \n2012 - 2016, Tran Dai Nghia High School for the Gifted [Saigon, Vietnam], Junior High Graduate\n- Programming Olympiad Team\n- Robotics Team\n- Informatics Club",
+            	"academic.txt": "\n2016 - 2019, La Quinta High School [Westminster, California]\nGPA: 4.26\n- Math Club Co-founder & President\n- Vietnamese Student Association\n- CyberPatriot X Participant\n 2017-2019, Golden West College [Huntington Beach, California]\nGPA: 4.00\nCourses:\nFall 2017: CS G175: C++ Programming\nSpring 2018: CS G262: Discrete Structures\nFall 2018: MATH G285: Introduction to Linear Algebra & Differential Equations\n2018-2019, Coastline Community College [Fountain Valley, California]\nGPA: #.##\nCourses:\nSpring 2019: MATH G280: Calculus 3/Multivariable Calculus\n \n2012 - 2016, Tran Dai Nghia High School for the Gifted [Saigon, Vietnam], Junior High Graduate\n- Programming Olympiad Team\n- Robotics Team\n- Informatics Club",
 		"contact.txt": "bhoang.luu[at]gmail[dot]com",
         };
         return {
